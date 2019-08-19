@@ -1,0 +1,27 @@
+.chat-page ul {
+  list-style-type: none;
+  background-color: #FFF;
+  margin: 0;
+  overflow: auto;
+  overflow-y: scroll;
+  padding: 0 20px 0px 20px;
+  height: calc(100% - 150px);
+}
+
+.chat-page .chat-message {
+  padding-left: 68px;
+  position: relative;
+  color: black;
+}
+
+.chat-page ul li {
+  line-height: 1.5rem;
+  padding: 10px 20px;
+  margin: 0;
+  border-bottom: 1px solid #f4f4f4;
+  text-align: left;
+}
+
+p {
+  font-size: 20px;
+}

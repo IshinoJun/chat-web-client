@@ -1,0 +1,38 @@
+.message-form {
+  padding: 10px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-control {
+  width: 500px;
+  height: 38px;
+  font-size: 15px;
+  border: 1px solid #c8c8c8;
+}
+
+input {
+  padding-left: 10px;
+  outline: none;
+}
+
+.message-button {
+  width: 80px;
+  height: 42px;
+  margin-left: 5px;
+  background-color: #128ff2;
+  color: #fff;
+  box-shadow: none;
+  border: 1px solid transparent;
+  font-size: 14px;
+  outline: none;
+  line-height: 100%;
+  white-space: nowrap;
+  vertical-align: middle;
+  padding: 0.6rem 1rem;
+  border-radius: 2px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
